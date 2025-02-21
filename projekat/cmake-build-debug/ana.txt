@@ -1,0 +1,5 @@
+echo "jfjhfhj" >kiki.txt
+echo <kiki.txt
+time
+date
+prompt "%"

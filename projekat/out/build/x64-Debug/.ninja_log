@@ -1,0 +1,12 @@
+# ninja log v6
+7	1261	7535623498239792	CMakeFiles/projekat.dir/main.cpp.obj	31ff17e53334e31d
+39	1269	7535623498558264	CMakeFiles/projekat.dir/Commands/DateCommand.cpp.obj	fb1993594d5af361
+30	1278	7535623498478236	CMakeFiles/projekat.dir/Commands/EchoCommand.cpp.obj	8f12849d0acd2564
+58	1287	7535623498719211	CMakeFiles/projekat.dir/Commands/AbstractCommands.cpp.obj	71fcb529cac720b3
+49	1303	7535623498638796	CMakeFiles/projekat.dir/Commands/TimeCommand.cpp.obj	9abc3c6a19f043ca
+65	1320	7535623498798297	CMakeFiles/projekat.dir/InputOutput.cpp.obj	8d907c9c846d9dd5
+76	1340	7535623498958293	CMakeFiles/projekat.dir/Commands/TouchCommand.cpp.obj	a316097d05b81b15
+12	1381	7535623498318261	CMakeFiles/projekat.dir/Interpreter.cpp.obj	d504aaac17909286
+41	603	7535630232525191	CMakeFiles/projekat.dir/Commands/WCCommand.cpp.obj	3f52bb9e9da1fe1a
+8	654	7535630232364227	CMakeFiles/projekat.dir/Terminal.cpp.obj	f1b0af29fb605182
+655	1087	7535630238627437	projekat.exe	b6390a991c6d3d84
