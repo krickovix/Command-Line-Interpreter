@@ -1,3 +1,0 @@
-C:/Users/User20/Desktop/faks/II/OO1/projektni zadatak/projekat/cmake-build-debug/CMakeFiles/projekat.dir
-C:/Users/User20/Desktop/faks/II/OO1/projektni zadatak/projekat/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User20/Desktop/faks/II/OO1/projektni zadatak/projekat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
